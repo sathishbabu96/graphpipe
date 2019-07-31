@@ -24,7 +24,7 @@ In other words, serving models without GraphPipe is a huge pain:
 
 ![image](_media/gparch.001.jpg)
 
-In the code we are releasing we provide:
+In the code we provide:
 
 * A minimalist machine learning transport specification based on [flatbuffers]
 * Simple, efficient reference model servers for [Tensorflow], [Caffe2], and [ONNX].
